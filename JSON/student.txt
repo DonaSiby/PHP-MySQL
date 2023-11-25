@@ -1,0 +1,13 @@
+{
+  "name" : "George Washington",
+  "birthday" : "Februuary 22,1732",
+  "address" : "Mount Vernon, Virginia,USA"
+}
+{
+  "first_name":"George",
+  "last_name" : "Washington",
+  "birthday" : "22-02-1732",
+  "street_name" : "Mount Vernon",
+  "State" : "Virginia",
+  "Country" : "USA"
+}
